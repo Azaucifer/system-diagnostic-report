@@ -103,7 +103,7 @@ The project uses `pytest` to test the main functions.
 Run the tests with:
 
 ```bash
-pytest test_project.py
+pytest test_system_diagnostic_report.py
 ```
 
 ### Tested Functions
