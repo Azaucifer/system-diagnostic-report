@@ -30,10 +30,11 @@ I made this project because I wanted to build something practical that uses Pyth
 
 ```text
 system-diagnostic-report/
-├── project.py          # Main program
-├── test_project.py     # Test suite
-├── requirements.txt    # Project dependencies
-└── README.md           # Project documentation
+├── system_diagnostic_report.py          # Main program
+├── test_system_diagnostic_report.py     # Test suite
+├── requirements.txt                     # Project dependencies
+├── README.md                            # Project documentation
+└── .gitignore                           # Git ignore rules                                    
 ```
 
 ## 📦 Installation
