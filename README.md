@@ -57,7 +57,7 @@ pip install -r requirements.txt
 Run the diagnostic tool with:
 
 ```bash
-python project.py
+python system_diagnostic_report.py
 ```
 
 The program will collect the current CPU, RAM, and disk usage and display a formatted diagnostic report.
